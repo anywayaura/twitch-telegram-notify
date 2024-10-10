@@ -28,7 +28,6 @@ TWITCH_APP_ID = 'abcdefghijklmnopqrstuvwxyz'
 TWITCH_APP_SECRET = 'abcdefghijklmnopqrstuvwxyz'
 TG_BOT_TOKEN = '01234567890:abcdefghijklmnopqrstuvwxyz'
 TG_BOT_CHAT_ID = -012345567890
-TG_BOT_CHAT_THREAD_ID = 123  # you dont need this line if you dont use topics
 TG_BOT_ADMIN = 0123456789
 ```
 
